@@ -1,9 +1,17 @@
-Welcome to MMM
-==============
+# [More Micro Modules](http://moremicromodules.org)
 
-?          | !
------------|--------------------------------------------
-INFO       | http://moremicromodules.org
-WIKI       | https://github.com/micromodules/meetup/wiki
-MEETUP.COM | http://www.meetup.com/More-Micro-Modules
+<img width="200" src="http://moremicromodules.org/mmm.png" alt="MMM">
 
+See [PROJECTS](https://github.com/micromodules/meetup/blob/master/PROJECTS.md) for some modules we've been working on. The next meetup is planned on [MEETUP.COM](http://www.meetup.com/More-Micro-Modules). And finally, there are some random [NOTES](https://github.com/micromodules/meetup/blob/master/NOTES.md) from previous meetups.
+
+## Guides
+### How to Structure Code and Publish a Module
+
+* [RUBY + RUBYGEMS](https://github.com/micromodules/meetup/blob/master/GUIDES/MODULES/RUBY-RUBYGEMS.md)
+* [JAVASCRIPT + NPM](https://github.com/micromodules/meetup/blob/master/GUIDES/MODULES/JAVASCRIPT-NPM.md)
+* [JAVASCRIPT + BOWER](https://github.com/micromodules/meetup/blob/master/GUIDES/MODULES/JAVASCRIPT-BOWER.md)
+
+### How to Write and Run a Unit Test
+
+* [RUBY: RSPEC](https://github.com/micromodules/meetup/blob/master/GUIDES/TESTS/RUBY-RSPEC.md)
+* [RUBY: MINITEST](https://github.com/micromodules/meetup/blob/master/GUIDES/TESTS/RUBY-MINITEST.md)
