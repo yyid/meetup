@@ -45,10 +45,6 @@ TBD
 
 TBD
 
-## How to Register with the Package Manager
-
-TBD
-
 ## How to Publish a Module
 
 TBD
