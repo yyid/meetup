@@ -1,8 +1,14 @@
-# JAVASCRIPT + NPM
+# JAVASCRIPT + NPM + COMMONJS
 
-## Requirements
+## Description
 
-TBD
+This is the standard way to package node (server-side) modules. The package manager is [npm](???). The format you package your modules in is called [CommonJS](???).
+
+Nevertheless, you can also use NPM for client-side code, but you will need a tool that handles the module loading in the browser and/or packages all code into a single bundle file. Such tools include:
+
+- [Browserify]()
+- [Webpack]()
+- [System.js]()
 
 ## How to Package a Module
 
@@ -14,7 +20,7 @@ You should also add information and documentation to your module, by adding a `R
 
 ### `package.json`
 
-The `package.json` file contains your module's meta data. You can also interactively creato one using `$ npm init`
+The `package.json` file contains your module's meta data. You can interactively create one using `$ npm init`
 
 [Documentaton](https://docs.npmjs.com/files/package.json)
 

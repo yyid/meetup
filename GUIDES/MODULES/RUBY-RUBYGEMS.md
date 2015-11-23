@@ -17,13 +17,9 @@ Replace `mmm` with your module's name.
 ### Recommended File Structure
 
     .
-    ├── Gemfile
-    ├── lib
-    │   ├── mmm
-    │   │   └── version.rb
-    │   └── mmm.rb
-    ├── mmm.gemspec
-    └── Rakefile
+    ├── package.json
+    └── src
+        └── mmm.js
 
 You should also add information and documentation to your module, by adding a `README.md`, a `LICENSE.txt`, and a `CHANGELOG.md` file.
 
