@@ -1,5 +1,16 @@
 # Random Links from Previous Meetups
 
+## #3, Berlin, 24 November 2015
+
+- fly.js "New Generation Build System" https://github.com/bucaran/fly
+- elixir's nice doc pages http://elixir-lang.org/docs/stable/elixir/Kernel.html
+- little printer http://littleprinter.com
+- cucumber does not work https://cucumber.io
+- webpack can replace a lot of boilerplate gulp tooling https://webpack.github.io
+- system.js can create system.js-less bundles https://github.com/systemjs/systemjs/blob/master/docs/production-workflows.md
+- brunch "ultra-fast HTML5 build tool" http://brunch.io
+- middleman gh-pages deployment https://github.com/edgecase/middleman-gh-pages
+
 ## #2, Berlin, 26 September 2015
 
 - there is no such thing as simple reality http://c2.com/cgi/wiki?ParadoxOfDimensionsOfSimplicity
