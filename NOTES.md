@@ -11,7 +11,7 @@
 - brunch "ultra-fast HTML5 build tool" http://brunch.io
 - middleman gh-pages deployment https://github.com/edgecase/middleman-gh-pages
 
-## #2, Berlin, 26 Oktober 2015
+## #2, Berlin, 26 October 2015
 
 - there is no such thing as simple reality http://c2.com/cgi/wiki?ParadoxOfDimensionsOfSimplicity
 - simple made easy (rich hickey) http://www.infoq.com/presentations/Simple-Made-Easy
