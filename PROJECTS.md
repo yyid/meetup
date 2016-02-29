@@ -1,5 +1,7 @@
 # Projects @ MMM
 
+A list of all projects started at one of the meetups and published to the respective package manager.
+
 Project Name + Link  | Language      | By - GH Name(s) | Meetup No. | Description
 -------------------- | ------------- | --------------- | -----------|-----------------|
 [better-array](https://github.com/janlelis/better-array) | JavaScript | [@JanLelis](https://github.com/janlelis) | 1 | JavaScript array extras - only when you need them
